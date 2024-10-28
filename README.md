@@ -1,1 +1,7 @@
 # Airline-Dashboard
+
+Developed a dynamic Tableau dashboard following best practices from online resources. The dashboard provides actionable insights by visualizing key performance metrics, allowing for interactive data exploration and trend analysis. Leveraged techniques from the tutorial to optimize the design for user engagement and clarity. 
+
+The Tableau dashboard provides an in-depth review of British Airways' customer satisfaction across multiple dimensions, offering key insights into overall performance metrics. The dashboard features interactive KPIs, including average ratings for cabin staff service, entertainment, food and beverages, seat comfort, value for money, and ground service. Users can dynamically filter data by various categories such as traveler type, seat class, aircraft group, and continent, allowing for personalized data exploration.
+
+Key visualizations include a time series chart tracking average overall ratings by month from 2016 to 2023, a global map highlighting average ratings by country, and a bar chart comparing ratings across different aircraft models, such as the Boeing 747 and Airbus A320. These visual elements provide users with actionable insights into customer experiences, enabling data-driven decisions aimed at improving service quality and customer satisfaction. The dashboard also includes a timeline slider for analyzing performance trends over specific periods
