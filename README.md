@@ -1,4 +1,4 @@
-# Airline-Dashboard
+# Bristish Airline-Dashboard
 
 Developed a dynamic Tableau dashboard following best practices from online resources. The dashboard provides actionable insights by visualizing key performance metrics, allowing for interactive data exploration and trend analysis. Leveraged techniques from the tutorial to optimize the design for user engagement and clarity. 
 
